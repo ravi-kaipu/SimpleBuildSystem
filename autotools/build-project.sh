@@ -2,7 +2,7 @@
 
 autoreconf -i -v -f
 
-cd $PWD/build/
+mkdir -p $PWD/build && cd $PWD/build/
 
 ./../configure
 
