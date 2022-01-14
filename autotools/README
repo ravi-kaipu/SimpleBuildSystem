@@ -1,0 +1,8 @@
+Steps to build the project:
+---------------------------
+1. Create src/, build/, m4/, test/ directories
+2. Create program file in src
+3. Create Makefile.am and write code to build the source files.
+4. autoscan and remove configure.scan to configure.ac
+5. Edit the configure.ac file according to our project.
+6. run ./build-project.sh and generated binary can be found in build/bin.
