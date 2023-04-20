@@ -1,4 +1,4 @@
-Steps to build the project:
+Steps to setup autotools for our project:
 ---------------------------
 1. Create src/, build/, m4/, test/ directories
 2. Create program file in src
